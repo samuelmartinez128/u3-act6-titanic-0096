@@ -1,6 +1,7 @@
 ## SAMUEL MARTINEZ NC 0096 
 ## Proposito 
 ![alt text](image.png)
+![alt text](image-25.png)
 
 ## TITANIC
 ![alt text](image-1.png)
